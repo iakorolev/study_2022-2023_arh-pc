@@ -77,28 +77,28 @@ header-includes:
 ## Настройка GitHub:
 Создаю учетную запись на GitHub и заполняюю основные данные(рис.1 [-@fig:1])
 
-![Рис.1.Создание учетной записи на GitHub](/image/3.jpg){ #fig:fig1 width=70% }
+![Рис.1.Создание учетной записи на GitHub](image/3.jpg){ #fig:fig1 width=70% }
 
 ## Базовая настройка git: 
 Сначала сделаю предварительную конфигурацию git. Открою терминал и введу следующие команды, указав имя и email(рис.2 [-@fig:2])
 
-![Рис.2.Указываем имя и email](/image/6.jpg){ #fig:fig2 width=70% }
+![Рис.2.Указываем имя и email](image/6.jpg){ #fig:fig2 width=70% }
 
 Настрою utf-8 в выводе сообщений git(рис.3 [-@fig:3])
 
-![Рис.3.Настройка utf-8](/image/9.jpg){ #fig:fig3 width=70% }
+![Рис.3.Настройка utf-8](image/9.jpg){ #fig:fig3 width=70% }
 
 Задам имя начальной ветки(рис.4 [-@fig:4])
 
-![Рис.4. Имя начальной ветки](/image/12.jpg){ #fig:fig4 width=70% }
+![Рис.4. Имя начальной ветки](image/12.jpg){ #fig:fig4 width=70% }
 
 Параметр autocrlf(рис.5 [-@fig:5])
 
-![Рис.5.Параметр autocrlf](/image/15.jpg){ #fig:fig5 width=70% }
+![Рис.5.Параметр autocrlf](image/15.jpg){ #fig:fig5 width=70% }
 
 Параметр safecrlf(рис.6 [-@fig:6])
 
-![Рис.6. Параметр safecrlf](/image/17.jpg){ #fig:fig6 width=70% }
+![Рис.6. Параметр safecrlf](image/17.jpg){ #fig:fig6 width=70% }
 
 # Создание SSH-ключа: 
 
