@@ -140,32 +140,32 @@ pandoc README.md -o README.docx
 1. Открываю терминал
 2. Перейду в каталог курса сформированный при выполнении лабораторной работы №3([-@fig:1])
 
- ![Рис.1.Каталог курса](image/1page.jpg){ #fig:1 width=70% }
+ ![Каталог курса](image/1page.jpg){ #fig:1 width=70% }
 
 3. Обновлю локальный репозмторий и перейду в каталог с шаблоном отчета по лабораторной работе № 4([-@fig:2])
 
- ![Рис.2.Каталог с шаблоном отчета по лабораторной №4](image/2page.jpg){ #fig:2 width=70% }
+ ![Каталог с шаблоном отчета по лабораторной №4](image/2page.jpg){ #fig:2 width=70% }
  
 4. Проведу компиляцию шаблона с использованием Makefile. Для этого введу команду make([-@fig:3])
 
-  ![Рис.3.make](image/3page.jpg){ #fig:3 width=70% }
+  ![make](image/3page.jpg){ #fig:3 width=70% }
  
 	Проверю корректность сгенерированных файлов.([-@fig:4])
  	
-  ![Рис.4.report.pdg](image/4page.jpg){ #fig:4 width=70% }
+  ![report.pdg](image/4page.jpg){ #fig:4 width=70% }
  
  5. Удалю полученные файлы с использованием Makefile.Для этого введу команду make clean([-@fig:5])
  
-  ![Рис.5.make clean](image/5page.jpg){ #fig:5 width=70% }
+  ![make clean](image/5page.jpg){ #fig:5 width=70% }
  
  6. Открою файл report.md c помощью любого текстового редактора, например gedit([-@fig:6])
  
-  ![Рис.6.gedit](image/6page.jpg){ #fig:6 width=70% }
+  ![gedit](image/6page.jpg){ #fig:6 width=70% }
   
  7. Заполню и скомпилирую отчет с использованием Makefile. Проверю корректность полученных файлов.
  8. Отправлю файлы на Github.( Команды git add ., git commit -am 'feat(main): add files lab-4', git push.)([-@fig:7])
  
-  ![Рис.7.Отправка файлов на GitHub](image/7page.jpg){ #fig:7 width=70% }
+  ![Отправка файлов на GitHub](image/7page.jpg){ #fig:7 width=70% }
 
 # Выводы
 
